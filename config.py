@@ -1,0 +1,1 @@
+API_YANDEX_KEY = 'fe4c93d8-ab25-4c6c-bb9e-61bcda184408'
